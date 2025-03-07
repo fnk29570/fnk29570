@@ -15,7 +15,7 @@
 
 ### 🏨 **HostelHub** – Hostel Booking Website  
 **Tech Stack:** Django, Python, dbSqlite, Bootstrap  
-📌 [GitHub Repo](https://github.com/yourusername/hostelhub) | 🌐 [Live Demo](https://yourdemo.com)  
+ 🌐 [Live Demo](https://yourdemo.com)  
 A hostel booking platform allowing students to find and book hostels online.
 
 ### 💊 **PharmTech** – Pharmacy E-commerce Shop  
@@ -25,7 +25,7 @@ An online pharmacy store for purchasing medical supplies.
 
 ### ⛪ **Church Website** – Django-based Church Platform  
 **Tech Stack:** Django, Python, Bootstrap  
-📌 [GitHub Repo](https://github.com/yourusername/church-website) | 🌐 [Live Demo](https://yourdemo.com)  
+ 🌐 [Live Demo](https://fnk29571.python.anywhere.com)  
 A website for churches to manage sermons, donations, and events.
 
 ## 📊 GitHub Stats
