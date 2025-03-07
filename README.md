@@ -25,7 +25,7 @@ An online pharmacy store for purchasing medical supplies.
 
 ### ⛪ **Church Website** – Django-based Church Platform  
 **Tech Stack:** Django, Python, Bootstrap  
- 🌐 [Live Demo](https://fnk29571.python.anywhere.com)  
+ 🌐 [Live Demo](https://fnk29571.pythonanywhere.com)  
 A website for churches to manage sermons, donations, and events.
 
 ## 📊 GitHub Stats
