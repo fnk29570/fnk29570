@@ -1,6 +1,6 @@
 # Hi, I'm Godfred Gyedu Nketia 👋
 
-💻 **IT Graduate | Django & PHP Developer | Learning AWS & DevOps**  
+💻 **IT Graduate | Web and Software Developer | Learning AWS & DevOps**  
 📍 **Based in Ghana**  
 📧 **Email: godfrednketia95@gmail.com**  
 
