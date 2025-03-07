@@ -11,7 +11,7 @@
 - AWS (Learning) | DevOps (Learning)
 
 ## 📂 Projects
-- 🏛 **[Church Website](https://github.com/yourusername/church-website)** – Django-based church website with sermons and live streaming.
+- 🏛 **[Church Website](https://github.com/fnk29570/church-website)** – Django-based church website with sermons and live streaming.
 - 🤖 **[AI Bible Quotation App](https://github.com/yourusername/ai-bible-app)** – AI-powered live Bible verse detection.
 - 💰 **[Paystack Payment Integration](https://github.com/yourusername/paystack-payment)** – Django payment gateway for mobile money.
 
