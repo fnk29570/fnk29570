@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Godfred Gydeu Nketia 👋
 
-<!--
-**fnk29570/fnk29570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IT Graduate | Django Developer | Learning Generative AI,AWS & DevOps**  
+📍 **Based in Ghana**  
+📧 **Email: godfrednketia95@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/yourname) | [Portfolio](https://yourwebsite.com)
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python | Django | PHP| Java| MySql| PostgreSQL
+- HTML | CSS | Bootstrap| JS
+- AWS (Learning) | DevOps (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🏛 **[Church Website](https://github.com/yourusername/church-website)** – Django-based church website with sermons and live streaming.
+- 🤖 **[AI Bible Quotation App](https://github.com/yourusername/ai-bible-app)** – AI-powered live Bible verse detection.
+- 💰 **[Paystack Payment Integration](https://github.com/yourusername/paystack-payment)** – Django payment gateway for mobile money.
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
