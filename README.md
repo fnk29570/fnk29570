@@ -20,7 +20,7 @@ A hostel booking platform allowing students to find and book hostels online.
 
 ### 💊 **PharmTech** – Pharmacy E-commerce Shop  
 **Tech Stack:** PHP, MySQL, Bootstrap  
-📌 [GitHub Repo]([https://github.com/fnk29571/pharmtech](https://github.com/fnk29570/pharmtech.git))   
+📌 [GitHub Repo]((https://github.com/fnk29570/pharmtech.git))   
 An online pharmacy store for purchasing medical supplies.
 
 ### ⛪ **Church Website** – Django-based Church Platform  
